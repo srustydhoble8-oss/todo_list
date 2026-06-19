@@ -40,7 +40,6 @@ while True:
             for i in tasks:
                 print(count,".",i)
                 count += 1
-                print(count)
     elif choice == "4":
         tasks.clear()
         print("🗑️ All tasks cleared!")            
@@ -54,5 +53,5 @@ while True:
         print("Thanks for using these app😄. Goodbye👋!")
         break
     else:
-        print("🚫Invalid option 🫥 Please choice again! 1,2,3 or 4")
+        print("🚫Invalid option 🫥 Please choice again! 1,2,3,4,5 or 6")
          
