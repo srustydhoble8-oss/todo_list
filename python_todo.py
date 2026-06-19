@@ -10,7 +10,7 @@ while True:
     print("5.Search")
     print("6.Exit")
 
-    choice = input()
+    choice = input("Enter your choice: ")
 
     if choice == "1":
         new_task = input("Add a new task: ")
