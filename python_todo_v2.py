@@ -6,9 +6,6 @@ try:
 except FileNotFoundError:
     tasks = []
 
-print("Loaded tasks:", tasks)
-print("Length:", len(tasks))
-
 while True:
     print("What would you like to do?🤔 ")
     print("1.Add")
