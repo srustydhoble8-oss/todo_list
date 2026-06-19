@@ -58,6 +58,8 @@ while True:
         print("Thanks for using these app😄. Goodbye👋!")
         break
         
-    else:
-        print("🚫Invalid option 🫥 Please choice again! 1,2,3,4,5 or 6")
+else:
+    print("🚫Invalid option 🫥 Please choice again! 1,2,3,4,5 or 6")
          
+
+
